@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+  <img alt='Drawer Page' src='assets/images/drawer.png'/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
