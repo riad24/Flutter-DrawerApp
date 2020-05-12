@@ -1,6 +1,6 @@
-# flutterdrawerapp
+# Flutter Drawer app
 
-A new Flutter application.
+A new Drawer application.
 
   <img alt='Drawer Page' src='assets/images/drawer.png'/>
 
